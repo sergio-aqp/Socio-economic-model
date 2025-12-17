@@ -1,0 +1,3 @@
+https://www.datosabiertos.gob.pe/dataset/sinadef-certificado-defunciones
+THANKS TO
+https://github.com/jmcastagnetto/sinadef-peru-fallecimientos
